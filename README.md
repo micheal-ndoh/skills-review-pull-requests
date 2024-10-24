@@ -13,7 +13,8 @@ _Collaborate and work together on GitHub._
 
 </header>
 
-<!--
+title: ICE 
+
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
