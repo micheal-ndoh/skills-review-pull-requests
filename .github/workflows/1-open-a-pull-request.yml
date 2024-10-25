@@ -1,6 +1,6 @@
 name: Step 1, Open a pull request
 
-# This step listens for the learner to open a pull request with branch `update-game`.
+# This step listens for the learner to open a pull request with branch `update-game.
 # This workflow updates from step 1 to step 2.
 
 # This will run every time we create a branch or tag.
