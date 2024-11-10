@@ -52,13 +52,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Let's get all the branches.
-
-      # In README.md, switch step 6 for step X.
-      - name: Update to step X
-        uses: skills/action-update-step@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          from_step: 6
-          to_step: X
-          branch_name: update-game
+          fetch-depth: 0 # Let's get all the branc
